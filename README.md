@@ -1,4 +1,4 @@
-Inori333 , now a student at Shandong University(SDU).Majored in Computer Science and Technology.
+Inori333 , from SDU. Majored in Computer Science and Technology.
 # Projects
 - 2nd place of the Large Language Model for Hardware Design Contest of ICCAD 2024.
 - 1st Price of the East China Regional Competition of CSCC-OS Design Contest
