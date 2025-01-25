@@ -1,7 +1,7 @@
 Inori333 , now a student at Shandong University(SDU).Majored in Computer Science and Technology.
 # Projects
 - 2nd place of the Large Language Model for Hardware Design Contest of ICCAD 2024.
-- 1st Price of the East China Regional Competition of CSCC-OS Design Contest //全国大学生系统能力大赛操作系统设计赛华东区域赛
+- 1st Price of the East China Regional Competition of CSCC-OS Design Contest
 # Languages and Tools
 <div style="display: flex;">
 <img alt="Python" src="https://img.shields.io/badge/-Python-ffbc03?&logo=Python&style=for-the-badge" />
