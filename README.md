@@ -1,3 +1,5 @@
+> "二向无常，遇而无往"
+
 Inori333 , from SDU. Majored in Computer Science and Technology.
 # Projects
 - 2nd place of the Large Language Model for Hardware Design Contest of ICCAD 2024.
