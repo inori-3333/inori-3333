@@ -36,6 +36,5 @@ Inori333 , now a student at Shandong University(SDU).Majored in Computer Science
 <img alt="Windows Terminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 </div>
 
-# Quotes
-
-<font size=20 face="STXingkai">“二向无常，遇而无往”</font>
+# Random Quotes
+<img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
