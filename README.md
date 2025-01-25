@@ -2,10 +2,13 @@ Inori333 , now a student at Shandong University(SDU).Majored in Computer Science
 # Projects
 - 2nd place of the Large Language Model for Hardware Design Contest of ICCAD 2024.
 - 1st Price of the East China Regional Competition of CSCC-OS Design Contest
+- Author of a large-scale Verilog dataset for machine learning and neural network training , maintaining now.
+- co-author of a benchmark for evaluating the performance of large language models in generating Verilog code and a maintainer of the test dataset
 # Languages and Tools
 <div style="display: flex;">
 <img alt="Python" src="https://img.shields.io/badge/-Python-ffbc03?&logo=Python&style=for-the-badge" />
 <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b&style=for-the-badge" />
+<img alt="Verilog" src="https://img.shields.io/badge/verilog-EE3626?style=for-the-badge">
 <img alt="shell script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">
@@ -35,5 +38,4 @@ Inori333 , now a student at Shandong University(SDU).Majored in Computer Science
 
 # Quotes
 
->
-> “二向无常，遇而无往”
+<font size=20 face="STXingkai">“二向无常，遇而无往”</font>
