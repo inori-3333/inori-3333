@@ -6,6 +6,7 @@ Inori333 , from SDU. Majored in Computer Science and Technology.
 - 1st Price of the East China Regional Competition of CSCC-OS Design Contest
 - Author of a large-scale Verilog dataset for machine learning and neural network training , maintaining now
 - Co-author of a benchmark for evaluating the performance of large language models in generating Verilog code and a maintainer of the test dataset
+- SteamDB Donator
 # Languages and Tools
 <div style="display: flex;">
 <img alt="Python" src="https://img.shields.io/badge/-Python-ffbc03?&logo=Python&style=for-the-badge" />
