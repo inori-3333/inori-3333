@@ -4,9 +4,12 @@ Inori333 , from SDU. Majored in Computer Science and Technology.
 # About me
 - 2nd place of the Large Language Model for Hardware Design Contest of ICCAD 2024
 - 1st Price of the East China Regional Competition of CSCC-OS Design Contest
+- SteamDB Donator(But why put this here? QAQ:I don't know!)
+# Projects
+- Contributor to the **Astrbot**, a multi-platform LLM chatbot and development framework
+- Developing plugins for **Astrbot**, like astrbot_plugin_steamshot
 - Author of a large-scale Verilog dataset for machine learning and neural network training , maintaining now
 - Co-author of a benchmark for evaluating the performance of large language models in generating Verilog code and a maintainer of the test dataset
-- SteamDB Donator
 # Languages and Tools
 <div style="display: flex;">
 <img alt="Python" src="https://img.shields.io/badge/-Python-ffbc03?&logo=Python&style=for-the-badge" />
