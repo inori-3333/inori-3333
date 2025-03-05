@@ -8,7 +8,7 @@ Inori333 , from SDU. Majored in Computer Science and Technology.
 # Projects
 - Contributor to the **Astrbot**, a multi-platform LLM chatbot and development framework
 - Developing plugins for **Astrbot**, like astrbot_plugin_steamshot
-- Author of a large-scale Verilog dataset for machine learning and neural network training , maintaining now
+- Co-author of a large-scale Verilog dataset for machine learning and neural network training
 - Co-author of a benchmark for evaluating the performance of large language models in generating Verilog code and a maintainer of the test dataset
 # Languages and Tools
 <div style="display: flex;">
