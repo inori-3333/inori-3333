@@ -1,6 +1,9 @@
 > "二向无常，遇而无往"
 
 Inori333 , from SDU. Majored in Computer Science and Technology.
+
+[![Moe Counter](https://count.getloli.com/get/@inori-3333?theme=moebooru)](https://github.com/inori-3333/inori-3333)
+
 # About me
 - 2nd place of the Large Language Model for Hardware Design Contest of ICCAD 2024
 - 1st Price of the East China Regional Competition of CSCC-OS Design Contest
