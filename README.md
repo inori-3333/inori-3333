@@ -7,13 +7,16 @@ Inori333 , from SDU. Majored in Computer Science and Technology.
 # About me
 - 2nd place of the Large Language Model for Hardware Design Contest of ICCAD 2024
 - 1st Price of the East China Regional Competition of CSCC-OS Design Contest
-- SteamDB Donator(But why put this here? QAQ:I don't know!)
+- member of [CentiTenka](https://centi-tenka.vercel.app/)
+- SteamDB Donator
 # Projects
-- Contributor to the **Astrbot**, a multi-platform LLM chatbot and development framework
-- Developing plugins for **Astrbot**, like astrbot_plugin_steamshot
-- Localizing the game text of Magic Sword into Simplified Chinese
-- Co-author of a large-scale Verilog dataset for machine learning and neural network training
-- Co-author of a benchmark for evaluating the performance of large language models in generating Verilog code and a maintainer of the test dataset
+- contributor of [**Astrbot**](https://github.com/AstrBotDevs/AstrBot), a multi-platform LLM chatbot and development framework
+- developing plugins for **Astrbot**, like astrbot_plugin_steamshot
+- localizing the game text of Magic Sword into Simplified Chinese
+- developer of AKIS Multi-Agent System
+- developer of flovvas
+- developer of Steam Booster Helper Wechat Miniapp
+- [inoriのAI Navigation](https://inori-ai-navigation.vercel.app/)
 # Languages and Tools
 <div style="display: flex;">
 <img alt="Python" src="https://img.shields.io/badge/-Python-ffbc03?&logo=Python&style=for-the-badge" />
