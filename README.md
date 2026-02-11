@@ -13,7 +13,7 @@ Inori333 , from SDU. Majored in Computer Science and Technology.
 - contributor of [**Astrbot**](https://github.com/AstrBotDevs/AstrBot), a multi-platform LLM chatbot and development framework
 - developing plugins for **Astrbot**, like astrbot_plugin_steamshot
 - localizing the game text of Magic Sword into Simplified Chinese
-- developer of AKIS Multi-Agent System
+- developer of AKIS System
 - developer of flovvas
 - developer of Steam Booster Helper Wechat Miniapp
 - [inoriのAI Navigation](https://inori-ai-navigation.vercel.app/)
