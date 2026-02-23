@@ -8,14 +8,16 @@ Inori333 , from SDU. Majored in Computer Science and Technology.
 - 2nd place of the Large Language Model for Hardware Design Contest of ICCAD 2024
 - 1st Price of the East China Regional Competition of CSCC-OS Design Contest
 - member of [CentiTenka](https://centi-tenka.vercel.app/)
-- SteamDB Donator
+- [SteamDB Donator](https://steamdb.info/calculator/76561199191820922/)
 # Projects
 - contributor of [**Astrbot**](https://github.com/AstrBotDevs/AstrBot), a multi-platform LLM chatbot and development framework
-- developing plugins for **Astrbot**, like astrbot_plugin_steamshot
+- developing plugins for **Astrbot**, like [astrbot_plugin_steamshot](https://github.com/inori-3333/astrbot_plugin_steamshot)
 - localizing the game text of Magic Sword into Simplified Chinese
 - developer of AKIS System
 - developer of flovvas
 - developer of Steam Booster Helper Wechat Miniapp
+- [Inori&MoonCat的SoundBox](https://github.com/inori-3333/HiFi-Box)
+- [基于DLNA协议的远程投屏APP](https://github.com/centitenka/TV_Caster)
 - [inoriのAI Navigation](https://inori-ai-navigation.vercel.app/)
 # Languages and Tools
 <div style="display: flex;">
