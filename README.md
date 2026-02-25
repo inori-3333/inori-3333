@@ -18,6 +18,7 @@ Inori333 , from SDU. Majored in Computer Science and Technology.
 - developer of Steam Booster Helper Wechat Miniapp
 - [Inori&MoonCat的SoundBox](https://github.com/inori-3333/HiFi-Box)
 - [基于DLNA协议的远程投屏APP](https://github.com/centitenka/TV_Caster)
+- [一个方便的浏览器背景切换和样式定义器](https://github.com/centitenka/Browser-bg-swap)（Still under developing）
 - [inoriのAI Navigation](https://inori-ai-navigation.vercel.app/)
 # Languages and Tools
 <div style="display: flex;">
