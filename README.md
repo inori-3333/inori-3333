@@ -11,7 +11,8 @@ Inori333 , from SDU. Majored in Computer Science and Technology.
 - member of Astrbot Developer Team
 - [SteamDB Donator](https://steamdb.info/calculator/76561199191820922/)
 # Projects
-- contributor of [**Astrbot**](https://github.com/AstrBotDevs/AstrBot), a multi-platform LLM chatbot and development framework
+- contributor of [**Astrbot**](https://github.com/AstrBotDevs/AstrBot), a multi-platform LLM chatbot and development framework.
+- contributor of [**OpenCLI**](https://github.com/jackwener/opencli), Make Any Website & Tool Your CLI.
 - developing plugins for **Astrbot**, like [astrbot_plugin_steamshot](https://github.com/inori-3333/astrbot_plugin_steamshot)
 - localizing the game text of Magic Sword into Simplified Chinese
 - developer of AKIS System
