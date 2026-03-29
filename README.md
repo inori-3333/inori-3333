@@ -7,7 +7,7 @@ Inori333 , from SDU. Majored in Computer Science and Technology.
 # About me
 - 2nd place of the Large Language Model for Hardware Design Contest of ICCAD 2024
 - 1st Price of the East China Regional Competition of CSCC-OS Design Contest
-- member of [CentiTenka](https://centi-tenka.vercel.app/)
+- member of [CentiTenka](https://www.centitenka.tech/)
 - member of Astrbot Developer Team
 - [SteamDB Donator](https://steamdb.info/calculator/76561199191820922/)
 # Projects
