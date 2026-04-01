@@ -13,6 +13,7 @@ Inori333 , from SDU. Majored in Computer Science and Technology.
 # Projects
 - contributor of [**Astrbot**](https://github.com/AstrBotDevs/AstrBot), a multi-platform LLM chatbot and development framework.
 - contributor of [**OpenCLI**](https://github.com/jackwener/opencli), Make Any Website & Tool Your CLI.
+- contributor of [**NClient3**](https://github.com/maxwai/NClientV3), An unofficial NHentai Android Client.
 - developing plugins for **Astrbot**, like [astrbot_plugin_steamshot](https://github.com/inori-3333/astrbot_plugin_steamshot)
 - localizing the game text of Magic Sword into Simplified Chinese
 - developer of AKIS System
