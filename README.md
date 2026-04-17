@@ -18,6 +18,7 @@ Inori333 , from SDU. Majored in Computer Science and Technology.
 - localizing the game text of Magic Sword into Simplified Chinese
 - developer of AKIS System
 - developer of flovvas
+- developer of ZhiYan[https://github.com/KinomotoMio/ZhiYan]
 - developer of Steam Booster Helper Wechat Miniapp
 - [Inori&MoonCat的SoundBox](https://github.com/inori-3333/HiFi-Box)
 - [基于DLNA协议的远程投屏APP](https://github.com/centitenka/TV_Caster)
