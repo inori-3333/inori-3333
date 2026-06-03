@@ -1,12 +1,11 @@
 > "二向无常，遇而无往"
 
-Inori333 , from SDU. Majored in Computer Science and Technology.
+Inori333. Majored in Computer Science and Technology.
 
 [![Moe Counter](https://count.getloli.com/get/@inori-3333?theme=moebooru)](https://github.com/inori-3333/inori-3333)
 
 # About me
 - 2nd place of the Large Language Model for Hardware Design Contest of ICCAD 2024
-- 1st Price of the East China Regional Competition of CSCC-OS Design Contest
 - member of [CentiTenka](https://www.centitenka.tech/)
 - member of Astrbot Developer Team
 - [SteamDB Donator](https://steamdb.info/calculator/76561199191820922/)
@@ -21,9 +20,6 @@ Inori333 , from SDU. Majored in Computer Science and Technology.
 - developer of [ZhiYan](https://github.com/KinomotoMio/ZhiYan)
 - developer of Steam Booster Helper Wechat Miniapp
 - [Inori&MoonCat的SoundBox](https://github.com/inori-3333/HiFi-Box)
-- [基于DLNA协议的远程投屏APP](https://github.com/centitenka/TV_Caster)
-- [一个方便的浏览器背景切换和样式定义器](https://github.com/centitenka/Browser-bg-swap)（Still under developing）
-- [一个毫无安全性可言的密码和APIKEY本地管理器](https://github.com/inori-3333/StoreMyKV)
 - [inoriのAI Navigation](https://inori-ai-navigation.vercel.app/)
 # Languages and Tools
 <div style="display: flex;">
