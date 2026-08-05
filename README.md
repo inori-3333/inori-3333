@@ -3,6 +3,7 @@
 Inori333. Majored in Computer Science and Technology.
 
 [![Moe Counter](https://count.getloli.com/get/@inori-3333?theme=moebooru)](https://github.com/inori-3333/inori-3333)
+[![GitHub Roast](https://ghfind.com/api/card/inori-3333?theme=dark&variant=contrib)](https://ghfind.com/u/inori-3333?ref=badge)
 
 # About me
 - 2nd place of the Large Language Model for Hardware Design Contest of ICCAD 2024
